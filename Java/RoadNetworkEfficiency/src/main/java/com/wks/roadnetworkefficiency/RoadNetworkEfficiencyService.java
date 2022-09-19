@@ -1,5 +1,8 @@
 package com.wks.roadnetworkefficiency;
 
+import com.wks.roadnetworkefficiency.exceptions.RouteNotFoundException;
+import com.wks.roadnetworkefficiency.exceptions.SameStartingPointAndDestinationException;
+
 public class RoadNetworkEfficiencyService {
 
     private final NavigationService navigationService;

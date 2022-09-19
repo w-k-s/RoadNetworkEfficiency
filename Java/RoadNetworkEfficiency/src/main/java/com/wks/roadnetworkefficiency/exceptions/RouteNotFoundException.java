@@ -1,4 +1,4 @@
-package com.wks.roadnetworkefficiency;
+package com.wks.roadnetworkefficiency.exceptions;
 
 public class RouteNotFoundException extends Exception {
 }
