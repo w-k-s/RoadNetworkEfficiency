@@ -1,0 +1,6 @@
+with "/opt/share/gpr/utilada_core.gpr";
+with "/opt/share/gpr/utilada_http.gpr";
+
+Project Main is
+
+End Main;
