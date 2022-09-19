@@ -1,4 +1,0 @@
-FROM reznik/gnat:gpl.2020.slim
-
-RUN gprinstall xmlada
-RUN gprinstall aws
